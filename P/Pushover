@@ -1,0 +1,8 @@
+{
+    "game": "Pushover",
+    "repo": [
+        "https://github.com/pushover/pushover.github.io"
+    ],
+    "status": "playable",
+    "url": "https://pushover.github.io/"
+}
