@@ -1,0 +1,12 @@
+{
+    "game": "Hextris",
+    "repo": [
+        "https://github.com/Hextris/hextris"
+    ],
+    "status": "playable",
+    "url": "https://hextris.io/",
+    "info": "An addictive puzzle game inspired by Tetris",
+    "lang": [
+        "JavaScript"
+    ]
+}
